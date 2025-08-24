@@ -1,0 +1,5 @@
+name: NPCFilter
+version: 1.0
+main: de.lucxtv.npcfilter.NPCFilter
+api-version: 1.8
+depend: [Citizens]
